@@ -1,4 +1,6 @@
 .env
 houses.csv
 Rent_price_prediction.pptx
-.ipynb_checkpoints
+.ipynb_checkpoints/dataframe_and_model_v2-checkpoint.ipynb
+dataframe_and_model-checkpoint.ipynb
+main_code-checkpoint.ipynb
